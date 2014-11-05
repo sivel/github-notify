@@ -18,7 +18,7 @@ Sends an email alert based on matching a regex pattern in one of the following:
 1. `pip install -r requirements.txt`
 1. Create a `github-notify.yaml` configuration file as described below
 
-## triage.yaml
+## github-notify.yaml
 
 This file can live at `./github-notify.yaml`, `~/.github-notify.yaml`, or `/etc/github-notify.yaml`
 
