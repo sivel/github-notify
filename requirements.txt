@@ -1,0 +1,4 @@
+Jinja2==2.7.3
+MarkupSafe==0.23
+PyGithub==1.25.0
+PyYAML==3.11
